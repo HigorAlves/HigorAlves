@@ -1,4 +1,4 @@
-# Hi there 🍀
+# Hey Folks 🍀
 
 I'm a **Software Engineer** focused on Front-end engineering and architecture and I'm building stuff at [@natahouse](https://github.com/natahouse).
 
