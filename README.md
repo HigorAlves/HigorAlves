@@ -30,3 +30,11 @@ Check out my [website](https://higoralves.dev/), [presentations](https://github.
 
 <img align="left" src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
 
+### Status
+
+[![Higor's GitHub stats](https://github-readme-stats.vercel.app/api?username=higoralves&count_private=true&show_icons=true&theme=dracula)](https://github.com/higoralves/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higoralves&theme=dracula&layout=compact)](https://github.com/higoralves/github-readme-stats)
+
+
+
