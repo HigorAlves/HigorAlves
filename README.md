@@ -4,6 +4,9 @@
 🇧🇷 Born in Divinopolis, Brazil <br>
 🇺🇸 Living in SF, California
 
+### What I'm working on 👨‍💻
+
+
 ## Find me elsewhere 🌎
 🚀 [Site](higoralves.dev) <br>
 📸 [Instagram](https://www.instagram.com/higoralves.dev/) <br>
