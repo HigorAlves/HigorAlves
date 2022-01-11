@@ -6,7 +6,8 @@
 
 ### What I'm working on 👨‍💻
 
-My personal site & Github Organization
+⛳️ My personal website [Higor Alves](https://www.higoralves.dev) <br>
+🪙 Blockchain Expert [Blockchain Expert](https://www.blockchainexpert.com.br)
 
 ## Find me elsewhere 🌎
 🚀 [Site](https://www.higoralves.dev) <br>
