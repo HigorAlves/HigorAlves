@@ -1,6 +1,6 @@
 # Hey Folks 🍀
 
-🤓 Senior Software Engineering at X-Team <br>
+🤓 Senior Software Engineering <br>
 🇧🇷 Born in Divinopolis, Brazil <br>
 🇺🇸 Living in SF, California
 
