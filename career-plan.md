@@ -140,7 +140,7 @@ gantt
   Project Leadership       :           lead1, 2025-08, 5m
   Mentoring Junior Devs    :           mentor, 2025-06, 18m
   Portfolio Building       :           port1, 2025-10, 12m
-  Apply to Big Tech (Google):          google, 2026-06, 3m
+  Apply to SAA:          company, 2026-06, 3m
 ```
 
 ---
