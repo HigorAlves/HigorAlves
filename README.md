@@ -7,3 +7,6 @@ I have hands-on expertise with Node.js, Next.js, and Remix, along with modern te
 My career has been marked by impactful contributions: reducing infrastructure costs through better backend architecture, improving application performance and reliability through thoughtful refactoring, and accelerating delivery timelines by introducing modern tooling and processes. I care deeply about writing clean, testable code and building robust, easy-to-evolve systems.
 
 Fluent in English at a certified C2 level and based in Brazil, I bring strong communication skills, teaching experience, and a collaborative mindset to every team I work with. I’m passionate about solving meaningful technical problems, mentoring others, and continuously growing my craft.
+
+---
+All open-source contributions are made independently and do not represent any employer, client, or organization I work with.
